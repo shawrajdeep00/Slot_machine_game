@@ -29,7 +29,7 @@ To play the game:
 2. Open a terminal and navigate to the project directory.
 3. Run the game by executing the following command:
    ```bash
-   python slot_machine.py
+   python Slot_game_machine.py
 
 ## Conclusion
 
